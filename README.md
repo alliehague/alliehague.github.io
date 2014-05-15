@@ -1,2 +1,2 @@
-alliehague.github.io
+Homepage for Allison Hague
 ====================
